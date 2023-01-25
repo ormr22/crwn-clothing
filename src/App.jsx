@@ -6,7 +6,7 @@ const Shop = () => {
   return (
     <>
       <h1>Welcome to Mench Trench Supply Co</h1>
-      <p>we sell shit</p>
+      <p>we sell shit No we don't.</p>
     </>
   );
 };
